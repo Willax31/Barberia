@@ -1,0 +1,49 @@
+
+.dif{
+    background: #FFFFFF;
+    padding:30px;
+}
+
+.principal{
+    background-color: #CCCCCC;
+    padding: 20px;
+}
+
+.encabezado{
+    padding-left: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+.textocen{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+img{
+    width:100%;
+}
+
+h3{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagendif{
+    width: 50%;
+}
